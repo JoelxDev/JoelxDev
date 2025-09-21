@@ -3,7 +3,7 @@
 ## 💻 Desarrollador Backend & Web Fullstack
 
 ## PROYECTOS
-### 📌 Sistema de Control de Asistencia
+### 📌 Sistema de Control de Sucursales
 Aplicación web que permite **gestionar y controlar sucursales** mediante **códigos QR**, optimizando la asistencia, seguridad y registro de entradas/salidas.
 ## ✨ Características
 ✅ Registro y control de sucursales.  
