@@ -11,5 +11,4 @@ Aplicación web que permite **gestionar y controlar sucursales** mediante **cód
 ✅ Generación de códigos QR únicos.  
 ✅ Escaneo de QR para validar asistencia o ingreso.   
 ✅ Panel de administración para visualizar registros.  
-✅ Reportes exportables.  
 ✅ Acceso multiusuario con roles. 
