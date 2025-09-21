@@ -1,4 +1,4 @@
-# Hey 👋! Soy Joel 👨
+# Hey 👋! Soy Joel 🧑‍💻
 
 ## 💻 Desarrollador Backend & Web Fullstack
 
